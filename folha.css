@@ -1,0 +1,45 @@
+body {
+    
+    font: normal 15pt Arial;
+    }
+    
+header {
+    box-shadow: coral;
+    text-align: center;
+   
+    border-radius: 12px;
+
+}
+#foto{
+    margin: 5px;
+    margin-bottom: 45px;
+    padding-left: 545px;
+    
+}
+img{
+    border-radius: 20%;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;  
+}
+#dados {
+    color:black;
+   
+    border-radius: 10px;
+    padding: 40px;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px coral;
+}
+footer {
+    margin-top: 5em;
+}
+#escola {
+    color: gray;
+    border-radius: 10px;
+    padding: 40px;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px coral;
+}
